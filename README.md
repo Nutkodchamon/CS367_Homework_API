@@ -13,12 +13,19 @@ http://localhost:8080
 ## 📁 Project Structure
 ```
 go-api-gin/
+
 ─ main.go
+
 ─ models/        # Data models (structs)
+
 ─ handlers/      # HTTP request/response handling
+
 ─ services/      # Business logic layer
+
 ─ repositories/  # Database access (SQLite queries)
+
 ─ students.db
+
 ─ README.md
 ```
 
